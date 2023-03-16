@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204883415098",
+    "project_id": "socialprofitional",
+    "storage_bucket": "socialprofitional.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204883415098:android:6b59ec151f393837672503",
+        "android_client_info": {
+          "package_name": "com.example.socialprofitional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204883415098-h0pu2rnd0necq3dp1tdt0aojvth76kpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrPwGQt0bcM8ATG1PQGknNEZMeZLWCxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204883415098-h0pu2rnd0necq3dp1tdt0aojvth76kpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
